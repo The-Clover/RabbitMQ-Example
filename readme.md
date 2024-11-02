@@ -1,0 +1,3 @@
+- [ ] Demo代码改造成SpringBoot注解形式
+- [ ] 测试RabbitMQ各种场景使用
+- [ ]

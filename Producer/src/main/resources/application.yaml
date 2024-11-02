@@ -1,0 +1,7 @@
+#rabbitmq
+spring:
+  rabbitmq:
+    host:
+    port:
+    username:
+    password:
